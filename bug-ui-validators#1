@@ -5,6 +5,6 @@ When attempting to delegate/undelegate the modal dissapears, when there is a ref
 
 Steps to reproduce:
 1. Go to https://app.arablefi.com/
-2. Click on Validators
-3. Click on Delegate/Undelegate
+2. Click on `Validators`.
+3. Click on `Delegate/Undelegate`.
 4. Wait for the validators list to refreh. This modal disappears.
