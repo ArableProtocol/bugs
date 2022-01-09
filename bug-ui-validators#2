@@ -1,5 +1,6 @@
-OS: Linux Manjaro with KDE
+OS: Linux Manjaro with KDE in VM
 Browser: Chrome
+Wallet: MetaMask
 
 Delegation after previous undelegation is not possible.
 
