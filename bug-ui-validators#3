@@ -1,0 +1,17 @@
+OS: Linux Manjaro with KDE
+Browser: Chrome
+
+This bug is possibly related to bug-ui-validators#1 and/or bug-ui-validators#2
+
+When trying to delegate I have had the issue where I would approve ACRE, then modal disappears without giving me
+the chance to click on `Delegate`. Trying to delegate again fails, the delegate button stays deactivated.
+
+Steps to reproduce:
+1. Go to https://app.arablefi.com/
+2. Click on `Validators`.
+3. Click on `Delegate`.
+4. Enter staking value.
+5. Click `Approve ACRE`.
+6. Confirm transaction MetaMask.
+7. This modal disappears.
+8. When trying to Delegate again with the same validator `Delegate` button stays disabled.
