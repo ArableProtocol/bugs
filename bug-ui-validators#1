@@ -1,5 +1,6 @@
-OS: Linux Manjaro with KDE
+OS: Linux Manjaro with KDE in VM
 Browser: Chrome
+Wallet: MetaMask
 
 When attempting to delegate/undelegate the modal dissapears, when there is a refresh of the stats while the modal is open.
 
