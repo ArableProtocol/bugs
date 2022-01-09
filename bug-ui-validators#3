@@ -4,8 +4,8 @@ Wallet: MetaMask
 
 This bug is possibly related to bug-ui-validators#1 and/or bug-ui-validators#2
 
-When trying to delegate I have had the issue where I would approve ACRE, then modal disappears without giving me
-the chance to click on `Delegate`. Trying to delegate again fails, the delegate button stays deactivated. 
+When trying to delegate I have had the issue where I would approve ACRE, then modal disappears (bug-ui-validators#1 ?) without giving me
+the chance to click on `Delegate` (bug-ui-validators#1). Trying to delegate again fails, the delegate button stays deactivated (bug-ui-validators#2 ?). 
 This seems to be direvtly cause by the issue bug-ui-validators#1
 
 Steps to reproduce:
@@ -15,5 +15,5 @@ Steps to reproduce:
 4. Enter staking value.
 5. Click `Approve ACRE`.
 6. Confirm transaction in MetaMask.
-7. This modal disappears.
+7. This modal disappears. Probably because confirmation in MM takes a while and in the meantime the modal disappears.
 8. When trying to Delegate again with the same validator `Delegate` button stays disabled.
