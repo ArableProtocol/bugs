@@ -5,8 +5,8 @@ Delegation after previous undelegation is not possible.
 
 Steps to reproduce:
 1. Go to https://app.arablefi.com/
-2. Click on Validators
-3. Delegate with any validator
-4. Undelegate with the same validator
-5. Try to delegate again with the same validator
-6. Deletgation fails, because the `Delegate` button stays disabled.
+2. Click on Validators.
+3. Delegate with any validator.
+4. Undelegate with the same validator.
+5. Try to delegate again with the same validator.
+6. Delegation fails, because the `Delegate` button stays disabled.
