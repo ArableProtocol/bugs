@@ -1,5 +1,6 @@
-OS: Linux Manjaro with KDE
+OS: Linux Manjaro with KDE in VM
 Browser: Chrome
+Wallet: MetaMask
 
 This bug is possibly related to bug-ui-validators#1 and/or bug-ui-validators#2
 
