@@ -1,0 +1,6 @@
+OS: Linux Manjaro with KDE in VM
+Browser: Chrome
+Wallet: MetaMask
+
+Issue:
+In Admin.Validators and Validators, when I use the seach filtering function, the filter gets reset when the validator list reloads. It would be nice to see the list to stay filtered.
