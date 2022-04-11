@@ -1,0 +1,15 @@
+OS: Linux Manjaro with KDE in VM
+Browser: Chrome
+Wallet: MetaMask
+
+Issue:
+Create validator modal stays visibal after creation.
+
+Expected result:
+Themodal should be closed.
+
+Steps to reprduc
+1. Create new validator
+2. Accept MetaMask confirmations etc. ....
+3. On the last step click "Create".
+4. The modal stays visiable and has to be manually closed.
