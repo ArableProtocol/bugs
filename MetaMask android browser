@@ -1,0 +1,42 @@
+#### System used
+OS: Android 10
+Browser: metamask v4.0.1(814) (android)
+Wallet: (MetaMask)
+
+#### Issue description
+
+The arablefi website does not function properly on the android metamask browser.
+
+#### Steps to reproduce the issue
+
+Go to arablefi.com  Click launch app
+
+1.Click menue button and go to "Pools" (does not load)
+2.Click menue button and go to "Validators" (does not load the list of validators)
+3.Click menue button the ACRE price at the bottom shows as $0.00
+
+
+
+#### What's the expected result?
+
+1.Click menue button and go to "Pools" (does not load)
+  - The pools page should load
+2.Click menue button and go to "Validators" (does not load the list of validators)
+  -The list of validators does not load
+3.Click menue button the ACRE price at the bottom shows as $0.00
+ -The ACRE price should be shown
+
+
+#### What's the actual result?
+1.Click menue button and go to "Pools"
+ -  does not load the whole page is blank
+2.Click menue button and go to "Validators"
+ - does not load the list of validators at the bottom of the page
+3.Click menue button the ACRE price at the bottom shows as $0.00
+ - incorrect price shown
+
+
+#### Additional details / screenshot
+
+- ![Screenshot]()
+-
